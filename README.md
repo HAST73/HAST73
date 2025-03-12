@@ -2,7 +2,7 @@
 <h3 align="left">Passionate about AI engineering, computer networks, and cybersecurity</h3>
 
 <h2 align="left">About me:</h2>
-<p align="left">Resoluted undergraduate student with a strong background in artificial intelligence. Passionate about the development of artificial intelligence technology, particularly in machine learning and deep learning. Patient, industrious, and aspiring. Currently seeking an internship to gain knowledge and experience while working with real artificial intelligence systems.</p>
+<p align="left">Resolute undergraduate student with a strong passion for artificial intelligence, particularly in machine learning and deep learning. Patient, industrious, and aspiring, eager to contribute to AI development. Currently seeking an internship to gain practical experience in the IT field and improve my skills while working on real-world projects.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
